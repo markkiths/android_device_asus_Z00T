@@ -1,2 +1,6 @@
 # Display
 ro.sf.lcd_density=460
+
+# Art
+dalvik.vm.dex2oat-threads=1
+dalvik.vm.boot-dex2oat-threads=1
