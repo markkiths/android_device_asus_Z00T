@@ -21,6 +21,9 @@ DEVICE_PATH := device/asus/Z00T
 # Assert
 TARGET_OTA_ASSERT_DEVICE := Z00T
 
+# Display
+TARGET_SCREEN_DENSITY := 420
+
 # Board
 TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 
